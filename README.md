@@ -1,6 +1,6 @@
 # Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization
 
-The official code for "Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization", (IJCAI'24), to appear. The link to this pape will soon be available.
+The official code for "Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization", (IJCAI'24), to appear. The paper will soon be released.
 
 ## Install Dependency
 
