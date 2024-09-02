@@ -1,6 +1,6 @@
 # Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization
 
-The official code for "Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization", (IJCAI'24), to appear. The paper will soon be released.
+The official code for [Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization](https://www.ijcai.org/proceedings/2024/0477.pdf), (IJCAI'24).
 
 ## Install Dependency
 
@@ -48,7 +48,7 @@ fi
 Run the following script to finish the offline experiments
 
 ```bash
-bash ./script/run_td3bc_offline.sh $task $quality $name $seed --device $device_id
+bash ./script/run_td3bc_offline.sh tasktask quality namename seed --device $device_id
 ```
 
 Value for the arguments
@@ -72,7 +72,7 @@ bash ./script/run_td3bc_offline.sh halfcheetah medium corl 0 --device "cuda:0"
 Run the following script to reproduce online experiments
 
 ```bash
-bash ./script/run_cpr_online.sh $task $quality original $seed --device $device_id
+bash ./script/run_cpr_online.sh tasktask quality original seed−−deviceseed --device device_id
 ```
 
 Value for the arguments
